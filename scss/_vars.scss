@@ -1,0 +1,21 @@
+// работают черех @extend %sf-regular
+%sf-regular {
+  font-family: "SFProDisplay-Regular", sans-serif;
+  font-weight: 400;
+}
+%sf-semibold {
+  font-family: "SFProDisplay-SemiBold", sans-serif;
+  font-weight: 600;
+}
+%ubuntu-light {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+%ubuntu-semibold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+%ubuntu-bold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+}
